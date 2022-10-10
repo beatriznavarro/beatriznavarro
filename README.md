@@ -18,7 +18,9 @@
 - 📙 [O momento de voar](https://www.amazon.com.br/momento-voar-Melinda-Gates/dp/8543107490)
 - 📒 [Eu sou Malala](https://www.amazon.com.br/Eu-sou-Malala-hist%C3%B3ria-defendeu/dp/8535923438)
 - 📘 [Girling Up](https://www.amazon.com.br/Girling-Up-Strong-Smart-Spectacular/dp/0399548602)
-
+- 🌎 [EnglishForIT](https://www.youtube.com/c/EnglishForIT)
+- 💛 [Cambly](https://www.cambly.com/invite/METPMMKU?st=101022&sc=4)
+- 💜 [lingoni French](https://www.youtube.com/c/lingoniFRENCH)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beatriznavarro&show_icons=true&theme=dracula)](https://github.com/beatriznavarro)
 <br/>
